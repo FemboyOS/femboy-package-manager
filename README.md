@@ -1,2 +1,2 @@
-# femboy-package-manager
-The FemboyOS package manager
+# femboy-pkgmgr
+The femboy package manager
